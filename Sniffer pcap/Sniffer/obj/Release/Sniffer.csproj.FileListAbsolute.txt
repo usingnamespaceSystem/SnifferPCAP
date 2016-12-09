@@ -1,0 +1,4 @@
+C:\Rabotai\Sniffer pcap\Sniffer\bin\Release\Sniffer.exe.config
+C:\Rabotai\Sniffer pcap\Sniffer\obj\Release\Sniffer.Sniff.resources
+C:\Rabotai\Sniffer pcap\Sniffer\obj\Release\Sniffer.Properties.Resources.resources
+C:\Rabotai\Sniffer pcap\Sniffer\obj\Release\Sniffer.csproj.GenerateResource.Cache
